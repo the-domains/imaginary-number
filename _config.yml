@@ -1,0 +1,28 @@
+name: Imaginary Number
+favicon: null
+layout_spectrum: 0.24865624215453863
+typography_spectrum: 0.21408132300712168
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9454210905823857
+  lightness: 0.969075373141095
+  saturation: 0.6000249779317528
+  rhythmicContrast: 0.6517658266238868
+purpose: []
