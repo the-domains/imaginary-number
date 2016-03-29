@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Imaginary Number]]></title>
         <description><![CDATA[Imaginary Number]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/imaginary-number/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 19:50:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 20:01:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/imaginary-number/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>We are an interactive media company.</p>]]></description>
-            <link>undefinedwe-are-an-interactive-media-company/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2091c7bd-54a5-4219-959b-12029e02452d.jpg">]]></description>
+            <link>https://thegrid.ai/imaginary-number/we-are-an-interactive-media-company/index.html</link>
             <guid isPermaLink="false">549c5c37-aea0-4a17-8a97-09807bcb68b7</guid>
-            <pubDate>Tue, 29 Mar 2016 19:50:15 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 20:00:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
